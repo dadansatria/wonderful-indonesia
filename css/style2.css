@@ -7,3 +7,8 @@
 	background-color: grey !important;
 	border-radius: 90px;
 }
+
+.footer {
+	background-color: #efefef;
+	padding: 2%;
+}
